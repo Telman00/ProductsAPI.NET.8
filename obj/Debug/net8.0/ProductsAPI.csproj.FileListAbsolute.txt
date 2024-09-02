@@ -31,3 +31,4 @@ C:\Users\Urfan\ProductsAPI\obj\Debug\net8.0\refint\ProductsAPI.dll
 C:\Users\Urfan\ProductsAPI\obj\Debug\net8.0\ProductsAPI.pdb
 C:\Users\Urfan\ProductsAPI\obj\Debug\net8.0\ProductsAPI.genruntimeconfig.cache
 C:\Users\Urfan\ProductsAPI\obj\Debug\net8.0\ref\ProductsAPI.dll
+C:\Users\Urfan\ProductsAPI\obj\Debug\net8.0\ProductsAPI.sourcelink.json
