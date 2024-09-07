@@ -135,3 +135,11 @@ C:\Users\Urfan\ProductsAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.Entity
 C:\Users\Urfan\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Urfan\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Urfan\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Urfan\ProductsAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Urfan\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Urfan\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Urfan\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Urfan\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Urfan\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Urfan\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Urfan\ProductsAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
