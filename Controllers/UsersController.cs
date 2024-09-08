@@ -90,8 +90,8 @@ namespace ProductsAPI.Controllers
                 }
             ),
             Expires = DateTime.UtcNow.AddDays(1),
-            SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
-
+            SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature),
+            Issuer = "telmanabidov.com"
         };
 
     var token = tokenHandler.CreateToken(tokenDescriptor);
